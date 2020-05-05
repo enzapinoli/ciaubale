@@ -57,6 +57,7 @@ namespace WindowsFormsApplication4
         {
             try
             {
+                //pulida l'area prima 'd fe al crin
                 rtb.Clear();
                 rtb.LoadFile("C:\\_Transito\\test.txt");
 
