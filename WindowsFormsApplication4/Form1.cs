@@ -57,7 +57,7 @@ namespace WindowsFormsApplication4
         {
             try
             {
-
+                rtb.Clear();
                 rtb.LoadFile("C:\\_Transito\\test.txt");
 
             }
